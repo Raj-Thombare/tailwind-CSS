@@ -1,12 +1,13 @@
 **Tailwind Setup Guide**
 
-1) To install Tailwindcss use this command - npm install tailwindcss
+1) To generate package.json file you need to use command 'npm init-y'
+2) To install Tailwindcss use this command - npm install tailwindcss
 
-2) create src and public folder then import tailwindcss components,utilities and base in src /styles.css
+3) create src and public folder then import tailwindcss components,utilities and base in src /styles.css
 
-3) To create public /style.css file, you have to go to package.json and change the scripts to "build-css": "tailwindcss build src/styles.css -o public/styles.css" 
+4) To create public /style.css file, you have to go to package.json and change the scripts to "build-css": "tailwindcss build src/styles.css -o public/styles.css" 
 
-4) To build /styles.css in public folder use this command "npm run build-css" which takes /styles.css file from src folder 
+5) To build /styles.css in public folder use this command "npm run build-css" which takes /styles.css file from src folder 
 
 so, you are ready to use Tailwindcss in your project!
 
