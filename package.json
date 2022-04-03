@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Raj-Thombare/tailwind-CSS#readme",
   "dependencies": {
     "tailwindcss": "^2.2.19"
-  }
+  },
+  "resolutions": {
+    "minimist": "1.2.6"
+}
 }
