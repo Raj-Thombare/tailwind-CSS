@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Raj-Thombare/tailwind-CSS#readme",
   "dependencies": {
     "minimist": "^1.2.6",
-    "nanoid": "^3.3.2",
+    "nanoid": "^3.3.3",
     "tailwindcss": "^2.2.19"
   }
 }
